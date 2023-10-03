@@ -1,0 +1,5 @@
+ipython
+openpyxl
+pandas
+portalocker
+xlsxwriter
